@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @mariscleonard
+- 👀 I’m interested in data science and machine learning. 
+- 🌱 I’m currently earning a masters degree in Health Informatics and Data Science from the University of Pittsburgh. 
+- 💞️ I’m looking to collaborate on open-source data science projects and competitions. I am also searching for jobs in the field. 
+- 📫 You can reach me via email at mariscleonard@gmail.com or connect with me on LinkedIn at (https://www.linkedin.com/in/maris-leonard-bb20a21b3/)
